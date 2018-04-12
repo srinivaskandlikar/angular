@@ -56,5 +56,10 @@
   "defaults": {
     "styleExt": "css",
     "component": {}
-  }
+  },
+  "styles": [
+  "styles.scss",
+  "../node_modules/bootstrap-3.3.7/dist/css/bootstrap.min.css"
+  
+]
 }
